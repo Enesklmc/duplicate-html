@@ -26,4 +26,4 @@ Just put ``` <!-- duplicate.X --> ``` ( X is the amount of Copies ) comment abov
 
 :point_down::point_down::point_down::point_down::point_down::point_down:
 
-![Screenshot](https://github.com/Enesklmc/duplicate-html/blob/master/duplicateHTMLscreenshot.png)
+![Screenshot](http://klmcthemes.com/duplicate-html-preview.jpg)
