@@ -6,7 +6,7 @@ Benefits:
 * Edit cloned elements at the same time
 
 Just put <!-- duplicate.X --> ( X is the amount of Copies ) comment above the item you want to Duplicate.
-
+:point_down::point_down::point_down::point_down::point_down::point_down:
 ```html
 <div class="container my-5">
 	<div class="row">
