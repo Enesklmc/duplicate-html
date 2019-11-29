@@ -28,6 +28,4 @@ Then, put Html comment ``` <!-- duplicate.X --> ``` ( X is the amount of Copies 
 </div>
 ```
 
-:point_down::point_down::point_down::point_down::point_down::point_down:
-
 ![Screenshot](http://klmcthemes.com/duplicate-html-preview.jpg)
