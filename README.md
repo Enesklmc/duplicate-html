@@ -1,5 +1,11 @@
 # duplicate-html
-Duplicate Html components with one line html comment.
+Duplicate Html components with one line of Html comment instead of Copy Paste.
+
+Why?
+* Avoid long Code lines
+* Quick edit functionility
+
+Just put <!-- duplicate.X --> ( X is the amount of Copies ) comment above the item you want to Copy.
 
 ```html
 <div class="container my-5">
