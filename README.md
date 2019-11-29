@@ -1,5 +1,5 @@
 # duplicate-html
-Duplicate Html components with one line of Html comment instead of Copy Paste.
+Duplicate Html components with one line of Html comment instead of ~~Copy Paste~~.
 
 Benefits:
 * Avoid long lines of code
