@@ -5,7 +5,7 @@ Benefits:
 * Avoid long lines of code
 * Edit cloned elements at the same time
 
-Just put <!-- duplicate.X --> ( X is the amount of Copies ) comment above the item you want to Duplicate.
+Just put ```html <!-- duplicate.X --> ``` ( X is the amount of Copies ) comment above the item you want to Duplicate.
 
 ```html
 <div class="container my-5">
