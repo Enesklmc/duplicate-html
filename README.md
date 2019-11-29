@@ -2,8 +2,8 @@
 Duplicate Html components with one line of Html comment instead of Copy Paste.
 
 Benefits:
-* Avoid long Code lines
-* Quick edit functionility
+* Avoid long lines of code
+* Edit cloned elements at the same time
 
 Just put <!-- duplicate.X --> ( X is the amount of Copies ) comment above the item you want to Duplicate.
 
