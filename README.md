@@ -1,7 +1,7 @@
 # duplicate-html
 Duplicate Html components with one line of Html comment instead of ~~Copy Paste~~.
 
-First, include the js file.
+First, include the duplicate-html.js file.
 ```<script src="duplicate-html.js"></script>```
 
 Benefits:
