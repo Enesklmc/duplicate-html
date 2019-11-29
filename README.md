@@ -1,11 +1,11 @@
-# duplicate-html
+# Duplicate HTML
 Duplicate Html components with one line of Html comment instead of ~~Copy Paste~~.
 
 Benefits:
 * Avoid long lines of code
 * Edit cloned elements at the same time
 
-## Use
+## Use of
 First, include the duplicate-html.js file.
 ```<script src="duplicate-html.js"></script>```
 
