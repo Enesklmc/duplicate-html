@@ -5,6 +5,7 @@ Benefits:
 * Avoid long lines of code
 * Edit cloned elements at the same time
 
+
 First, include the duplicate-html.js file.
 ```<script src="duplicate-html.js"></script>```
 
