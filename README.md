@@ -1,14 +1,14 @@
 # duplicate-html
 Duplicate Html components with one line of Html comment instead of ~~Copy Paste~~.
 
-First, include the duplicate-html.js file.
-```<script src="duplicate-html.js"></script>```
-
 Benefits:
 * Avoid long lines of code
 * Edit cloned elements at the same time
 
-Just put ``` <!-- duplicate.X --> ``` ( X is the amount of Copies ) comment above the item you want to Duplicate.
+First, include the duplicate-html.js file.
+```<script src="duplicate-html.js"></script>```
+
+Then, put Html comment ``` <!-- duplicate.X --> ``` ( X is the amount of Copies ) above the item you want to Duplicate.
 
 ```html
 <div class="container my-5">
